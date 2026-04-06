@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hakan-Erol
+- Hi, I’m @Hakan-Erol
 - I’m interested in:
  AI/Machine learning/Deep learning
 
-I’m currently learning python
+
 
 
 <!---
