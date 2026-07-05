@@ -1,11 +1,13 @@
-- Hi, I’m @Hakan-Erol
-- I’m interested in:
- AI/Machine learning/Deep learning
+# Hi, I'm Hakan 👋
 
+Third-year Artificial Intelligence student at Radboud University, Nijmegen.
 
+**Currently:**
+- 🚀 Building [404leads](https://404leads.com) — a SaaS lead generation platform for web design freelancers (React, Supabase, Stripe, n8n)
+- 📊 Teaching assistant for Probability Theory at Radboud
 
+**Featured project:** [Social bias in BERT](https://github.com/Hakan-Erol/Explainable-AI) — comparing attention rollout and SHAP explanations on the CrowS-Pairs dataset (Python, PyTorch, Hugging Face)
 
-<!---
-Hakan-Erol/Hakan-Erol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools I use a lot:** Python · PyTorch · JavaScript · SQL · n8n · Supabase · React · Docker
+
+📫 Reach me: hakanemail80@gmail.com · [LinkedIn](https://www.linkedin.com/in/hakan-e)
